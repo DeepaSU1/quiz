@@ -1,7 +1,7 @@
 # quiz
 
 <picture>
-<img src="myquizapp.png">
+<img src= "./assets/myquizapp.PNG">
 </picture>
 
 ## Description
